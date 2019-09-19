@@ -18,7 +18,10 @@ class Aluno{
         void mostrarDados();
 
         void setNome(string n);
+        void setNotas();
+        void setMedia();
 
+        string getNome();
 };
 
 

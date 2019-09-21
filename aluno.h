@@ -20,8 +20,12 @@ class Aluno{
         void setNome(string n);
         void setNotas();
         void setMedia();
+        void setDisciplinas();
 
         string getNome();
+        void getNotas();
+        float getMedia();
+        void getDisciplinas();
 };
 
 
